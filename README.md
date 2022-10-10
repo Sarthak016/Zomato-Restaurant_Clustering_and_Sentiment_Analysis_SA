@@ -1,7 +1,7 @@
 capstone 4 Alma better
 
 # Zomoto-Restaurant-Clustering-and-Sentiment-Analysis
-![image](https://user-images.githubusercontent.com/98172465/170446633-627064d0-f533-4eb4-b4d9-a32f1dd089b4.png)
+![image](https://www.google.com/url?sa=i&url=https%3A%2F%2Findifoodbev.com%2Flogistics-track-trace%2Fzomato-faced-flak%2F&psig=AOvVaw3fCAUpo1RCZRtiCILJYQ9E&ust=1665485782663000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCNiU_pXA1foCFQAAAAAdAAAAABAK)
 
 Zomato is an Indian restaurant aggregator and food delivery start-up founded by Deepinder Goyal and Pankaj Chaddah in 2008. Zomato provides information, menus and user-reviews of restaurants, and also has food delivery options from partner restaurants in select cities.
 
