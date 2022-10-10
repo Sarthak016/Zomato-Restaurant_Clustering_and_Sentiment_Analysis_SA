@@ -1,7 +1,7 @@
 capstone 4 Alma better
 
 # Zomoto-Restaurant-Clustering-and-Sentiment-Analysis
-![image](https://www.google.com/url?sa=i&url=https%3A%2F%2Findifoodbev.com%2Flogistics-track-trace%2Fzomato-faced-flak%2F&psig=AOvVaw3fCAUpo1RCZRtiCILJYQ9E&ust=1665485782663000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCNiU_pXA1foCFQAAAAAdAAAAABAK)
+![image]([https://www.google.com/url?sa=i&url=https%3A%2F%2Findifoodbev.com%2Flogistics-track-trace%2Fzomato-faced-flak%2F&psig=AOvVaw3fCAUpo1RCZRtiCILJYQ9E&ust=1665485782663000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCNiU_pXA1foCFQAAAAAdAAAAABAK](https://inc42.com/wp-content/uploads/2020/12/Zomato_Feature_Social_1360x1020.jpg))
 
 Zomato is an Indian restaurant aggregator and food delivery start-up founded by Deepinder Goyal and Pankaj Chaddah in 2008. Zomato provides information, menus and user-reviews of restaurants, and also has food delivery options from partner restaurants in select cities.
 
