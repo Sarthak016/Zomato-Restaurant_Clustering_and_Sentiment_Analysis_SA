@@ -1,4 +1,3 @@
-# Zomato-Restaurant_Clustering_and_Sentiment_Analysis_SA
 capstone 4 Alma better
 
 # Zomoto-Restaurant-Clustering-and-Sentiment-Analysis
