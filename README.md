@@ -59,6 +59,6 @@ Sentiment Analysis was done on the reviews and a model was trained in order to i
 
 SVM and XGB both performed well and we can choose any one them
 
-SVM and XGB are having 92.1% and 92.8%  testing accuracy respectively
+SVM and XGB are having 91.88% and 93.69%  testing accuracy respectively
 
 We got best cluster as 5 in K Means and Principal Component Analysis(PCA)
